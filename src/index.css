@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-brand-white: #ffffff;
+  --color-dark-red: #580f1c;
+  --color-brand-black: #000000;
+  --color-pastel-grey: #d2c8be;
+  --color-gray-brown: #574944;
+
+  /* Typography */
+  --font-sans: 'Quicksand', sans-serif;
+  --font-script: "Great Vibes", cursive;
+}
