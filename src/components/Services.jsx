@@ -11,11 +11,10 @@ const Services = () => {
     { id: "05", title: "Data Analytics", description: "Clear reports on page performance to track growth and adjust strategies as needed." },
     { id: "06", title: "Community Engagement", description: "Responding to comments and messages to keep followers engaged and connected." },
     { id: "07", title: "Brand Strategy & Identity", description: "Developing a cohesive visual and tonal identity that resonates with your target audience." },
-    { id: "08", title: "Ad Campaign Management", description: "Targeted advertising strategies designed to maximize ROI and elevate brand visibility." },
-    { id: "09", title: "Social Media Audit", description: "A full review of current social media pages to identify strengths, weaknesses, and improvement areas." },
-    { id: "10", title: "Page Optimization", description: "Updating and improving profiles to look more professional and attract the right audience." },
-    { id: "11", title: "Monthly Content Calendar", description: "A full month of content planned in advance, aligned with business goals and key dates." },
-    { id: "12", title: "Basic Video Editing", description: "Simple, polished edits that improve video quality and make content more engaging." },
+    { id: "08", title: "Social Media Audit", description: "A full review of current social media pages to identify strengths, weaknesses, and improvement areas." },
+    { id: "9", title: "Page Optimization", description: "Updating and improving profiles to look more professional and attract the right audience." },
+    { id: "10", title: "Monthly Content Calendar", description: "A full month of content planned in advance, aligned with business goals and key dates." },
+    { id: "11", title: "Basic Video Editing", description: "Simple, polished edits that improve video quality and make content more engaging." },
   ];
 
   const scroll = (direction) => {
